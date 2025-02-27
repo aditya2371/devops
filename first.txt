@@ -1,3 +1,3 @@
 welcome
-tpoday is 27th freb
+today is 27th feb
 bye
